@@ -1,0 +1,64 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"Sesjounm61UIT-8pnfB6\" name=\"Page-1\">\n    <mxGraphModel dx=\"4738\" dy=\"1804\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" parent=\"0\" />\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-1\" value=\"User\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"-1083\" y=\"172\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-2\" value=\"FrontEnd\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"-465\" y=\"174\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-3\" value=\"Backend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"127\" y=\"169\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-4\" value=\"stripe\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;labelBackgroundColor=default;fontColor=#FFFFFF;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"686\" y=\"169\" width=\"132.44\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"\" lucidchartObjectId=\"pQtCCk5T62ww\" id=\"ECEZyrWormSFUSJkWwTS-11\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/277af78a-1b20-4799-8146-3c408d82d8b6/content;imageAspect=0;container=1;\" vertex=\"1\" parent=\"ECEZyrWormSFUSJkWwTS-4\">\n            <mxGeometry x=\"11.720000000000027\" y=\"432.5\" width=\"109\" height=\"52\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-12\" value=\"Database\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"1042\" y=\"169\" width=\"132.44\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "",
+	"repoData": {
+		"ECEZyrWormSFUSJkWwTS-1": {
+			"path": "ECEZyrWormSFUSJkWwTS-1",
+			"cellName": "User",
+			"cellId": "ECEZyrWormSFUSJkWwTS-1",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-2": {
+			"path": "ECEZyrWormSFUSJkWwTS-2",
+			"cellName": "FrontEnd",
+			"cellId": "ECEZyrWormSFUSJkWwTS-2",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-3": {
+			"path": "ECEZyrWormSFUSJkWwTS-3",
+			"cellName": "Backend",
+			"cellId": "ECEZyrWormSFUSJkWwTS-3",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-4": {
+			"path": "ECEZyrWormSFUSJkWwTS-4",
+			"cellName": "stripe",
+			"cellId": "ECEZyrWormSFUSJkWwTS-4",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-5": {
+			"path": "ECEZyrWormSFUSJkWwTS-5",
+			"cellId": "ECEZyrWormSFUSJkWwTS-5",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-6": {
+			"path": "ECEZyrWormSFUSJkWwTS-6",
+			"cellId": "ECEZyrWormSFUSJkWwTS-6",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-7": {
+			"path": "ECEZyrWormSFUSJkWwTS-7",
+			"cellId": "ECEZyrWormSFUSJkWwTS-7",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-8": {
+			"path": "ECEZyrWormSFUSJkWwTS-8",
+			"cellId": "ECEZyrWormSFUSJkWwTS-8",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-11": {
+			"path": "ECEZyrWormSFUSJkWwTS-11",
+			"cellId": "ECEZyrWormSFUSJkWwTS-11",
+			"visible": true
+		},
+		"ECEZyrWormSFUSJkWwTS-12": {
+			"path": "ECEZyrWormSFUSJkWwTS-12",
+			"cellName": "Database",
+			"cellId": "ECEZyrWormSFUSJkWwTS-12",
+			"visible": true
+		}
+	},
+	"simulations": {},
+	"cellToPath": {}
+}
