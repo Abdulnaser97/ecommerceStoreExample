@@ -1,7 +1,7 @@
 {
-	"drawioXML": "<mxfile>\n  <diagram id=\"Sesjounm61UIT-8pnfB6\" name=\"Page-1\">\n    <mxGraphModel dx=\"4738\" dy=\"1804\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" parent=\"0\" />\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-1\" value=\"User\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"-1083\" y=\"172\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-2\" value=\"FrontEnd\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"-465\" y=\"174\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-3\" value=\"Backend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"127\" y=\"169\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-4\" value=\"stripe\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;labelBackgroundColor=default;fontColor=#FFFFFF;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"686\" y=\"169\" width=\"132.44\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"\" lucidchartObjectId=\"pQtCCk5T62ww\" id=\"ECEZyrWormSFUSJkWwTS-11\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/277af78a-1b20-4799-8146-3c408d82d8b6/content;imageAspect=0;container=1;\" vertex=\"1\" parent=\"ECEZyrWormSFUSJkWwTS-4\">\n            <mxGeometry x=\"11.720000000000027\" y=\"432.5\" width=\"109\" height=\"52\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-12\" value=\"Database\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"1042\" y=\"169\" width=\"132.44\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
-	"fileName": "",
-	"fileURL": "",
+	"drawioXML": "<mxfile>\n  <diagram id=\"Sesjounm61UIT-8pnfB6\" name=\"Page-1\">\n    <mxGraphModel dx=\"3146\" dy=\"992\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" parent=\"0\" />\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-1\" value=\"User\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"-1083\" y=\"172\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-2\" value=\"FrontEnd\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"-465\" y=\"174\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-3\" value=\"Backend\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"127\" y=\"169\" width=\"120\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-4\" value=\"stripe\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;labelBackgroundColor=default;fontColor=#FFFFFF;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"686\" y=\"169\" width=\"132.44\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"\" lucidchartObjectId=\"pQtCCk5T62ww\" id=\"ECEZyrWormSFUSJkWwTS-11\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/277af78a-1b20-4799-8146-3c408d82d8b6/content;imageAspect=0;container=1;\" parent=\"ECEZyrWormSFUSJkWwTS-4\" vertex=\"1\">\n            <mxGeometry x=\"11.720000000000027\" y=\"432.5\" width=\"109\" height=\"52\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"ECEZyrWormSFUSJkWwTS-12\" value=\"Database\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"1042\" y=\"169\" width=\"132.44\" height=\"917\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"Backend\" lucidchartObjectId=\"M2GCCmZeg6qk\" id=\"bXrb3LplwjmMcWT36D48-1\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=0;strokeColor=#e6e6e6;fillColor=#ffffff;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"361\" y=\"1408\" width=\"356\" height=\"704\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"ItemComponent\" lucidchartObjectId=\"M2GC84RJ__A_\" id=\"bXrb3LplwjmMcWT36D48-2\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=0;strokeColor=#e6e6e6;fillColor=#ffffff;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-443\" y=\"1409\" width=\"332\" height=\"704\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"ReduxAction\" lucidchartObjectId=\"M2GCwNzM8MAW\" id=\"bXrb3LplwjmMcWT36D48-3\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=0;strokeColor=#e6e6e6;fillColor=#ffffff;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-14\" y=\"1579\" width=\"300\" height=\"226\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"User\" lucidchartObjectId=\"M2GC4CmmbxhL\" id=\"bXrb3LplwjmMcWT36D48-4\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=0;strokeColor=#e6e6e6;fillColor=#ffffff;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-848\" y=\"1417\" width=\"259\" height=\"277\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Return Stripe Session ID\" lucidchartObjectId=\"M2GCaxIzqOV8\" id=\"bXrb3LplwjmMcWT36D48-5\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"413\" y=\"1605\" width=\"251\" height=\"47\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Create Order Request\" lucidchartObjectId=\"M2GCWE4muCcv\" id=\"bXrb3LplwjmMcWT36D48-6\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"425\" y=\"1492\" width=\"228\" height=\"47\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Navigate to Checkout\" lucidchartObjectId=\"M2GCECA6qqyi\" id=\"bXrb3LplwjmMcWT36D48-7\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-391\" y=\"1499\" width=\"227\" height=\"47\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Dispatch addToCart\" lucidchartObjectId=\"M2GCsQKnt41p\" id=\"bXrb3LplwjmMcWT36D48-8\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-391\" y=\"1636\" width=\"227\" height=\"47\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update Cart State\" lucidchartObjectId=\"M2GCIO9iSl1j\" id=\"bXrb3LplwjmMcWT36D48-9\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"39\" y=\"1636\" width=\"195\" height=\"47\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Click Add to Cart\" lucidchartObjectId=\"M2GCYE8Ks.P_\" id=\"bXrb3LplwjmMcWT36D48-10\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-805\" y=\"1636\" width=\"184\" height=\"47\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update UI\" lucidchartObjectId=\"M2GClxeBjLsv\" id=\"bXrb3LplwjmMcWT36D48-11\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-391\" y=\"1737\" width=\"227\" height=\"47\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"\" lucidchartObjectId=\"M2GC6ZD6zhhB\" id=\"bXrb3LplwjmMcWT36D48-12\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-8\" target=\"bXrb3LplwjmMcWT36D48-9\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"bXrb3LplwjmMcWT36D48-13\" value=\"\" style=\"text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=13;\" parent=\"bXrb3LplwjmMcWT36D48-12\" vertex=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"\" lucidchartObjectId=\"M2GCojJ5AlJC\" id=\"bXrb3LplwjmMcWT36D48-14\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-9\" target=\"bXrb3LplwjmMcWT36D48-11\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"bXrb3LplwjmMcWT36D48-15\" value=\"\" style=\"text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=13;\" parent=\"bXrb3LplwjmMcWT36D48-14\" vertex=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"\" lucidchartObjectId=\"M2GCP.~91ouc\" id=\"bXrb3LplwjmMcWT36D48-16\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-6\" target=\"bXrb3LplwjmMcWT36D48-5\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"bXrb3LplwjmMcWT36D48-17\" value=\"\" style=\"text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=13;\" parent=\"bXrb3LplwjmMcWT36D48-16\" vertex=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"\" lucidchartObjectId=\"M2GCRrqhFVQc\" id=\"bXrb3LplwjmMcWT36D48-18\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-5\" target=\"bXrb3LplwjmMcWT36D48-24\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"bXrb3LplwjmMcWT36D48-19\" value=\"\" style=\"text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontSize=13;\" parent=\"bXrb3LplwjmMcWT36D48-18\" vertex=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"\" lucidchartObjectId=\"t4GCmCw0oQ3i\" id=\"bXrb3LplwjmMcWT36D48-20\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-10\" target=\"bXrb3LplwjmMcWT36D48-8\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Click Navigate to Checkout\" lucidchartObjectId=\"Q5GCH9919N2i\" id=\"bXrb3LplwjmMcWT36D48-21\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-805\" y=\"1493\" width=\"184\" height=\"58\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"\" lucidchartObjectId=\".5GCnCXchCBv\" id=\"bXrb3LplwjmMcWT36D48-22\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-21\" target=\"bXrb3LplwjmMcWT36D48-7\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"\" lucidchartObjectId=\"j9GC6Rx5~pZ2\" id=\"bXrb3LplwjmMcWT36D48-23\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-7\" target=\"bXrb3LplwjmMcWT36D48-6\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Redirect to Stripe\" lucidchartObjectId=\"q_GC5lx-OR2G\" id=\"bXrb3LplwjmMcWT36D48-24\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-258\" y=\"2031\" width=\"118\" height=\"58\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Stripe\" lucidchartObjectId=\"._GCvi6jkmlI\" id=\"bXrb3LplwjmMcWT36D48-25\">\n          <mxCell style=\"html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;fillColor=#ffffff;strokeWidth=2.3;container=1;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-258\" y=\"2250\" width=\"118\" height=\"58\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"\" lucidchartObjectId=\"r.GCIBrVHxV~\" id=\"bXrb3LplwjmMcWT36D48-26\">\n          <mxCell style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"bXrb3LplwjmMcWT36D48-24\" target=\"bXrb3LplwjmMcWT36D48-25\" edge=\"1\">\n            <mxGeometry width=\"100\" height=\"100\" relative=\"1\" as=\"geometry\">\n              <Array as=\"points\" />\n            </mxGeometry>\n          </mxCell>\n        </UserObject>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "ecommerceStoreExample.CodeCanvas",
+	"fileURL": "https://raw.githubusercontent.com/Abdulnaser97/ecommerceStoreExample/ecommerce/ecommerceStoreExample.CodeCanvas",
 	"repoData": {
 		"ECEZyrWormSFUSJkWwTS-1": {
 			"path": "ECEZyrWormSFUSJkWwTS-1",
@@ -56,6 +56,154 @@
 			"path": "ECEZyrWormSFUSJkWwTS-12",
 			"cellName": "Database",
 			"cellId": "ECEZyrWormSFUSJkWwTS-12",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-1": {
+			"path": "bXrb3LplwjmMcWT36D48-1",
+			"cellName": "Backend",
+			"cellId": "bXrb3LplwjmMcWT36D48-1",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-2": {
+			"path": "bXrb3LplwjmMcWT36D48-2",
+			"cellName": "ItemComponent",
+			"cellId": "bXrb3LplwjmMcWT36D48-2",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-3": {
+			"path": "bXrb3LplwjmMcWT36D48-3",
+			"cellName": "ReduxAction",
+			"cellId": "bXrb3LplwjmMcWT36D48-3",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-4": {
+			"path": "bXrb3LplwjmMcWT36D48-4",
+			"cellName": "User",
+			"cellId": "bXrb3LplwjmMcWT36D48-4",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-5": {
+			"path": "bXrb3LplwjmMcWT36D48-5",
+			"cellName": "Return Stripe Session ID",
+			"cellId": "bXrb3LplwjmMcWT36D48-5",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-6": {
+			"path": "bXrb3LplwjmMcWT36D48-6",
+			"cellName": "Create Order Request",
+			"cellId": "bXrb3LplwjmMcWT36D48-6",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-7": {
+			"path": "bXrb3LplwjmMcWT36D48-7",
+			"cellName": "Navigate to Checkout",
+			"cellId": "bXrb3LplwjmMcWT36D48-7",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-8": {
+			"path": "bXrb3LplwjmMcWT36D48-8",
+			"cellName": "Dispatch addToCart",
+			"cellId": "bXrb3LplwjmMcWT36D48-8",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-9": {
+			"path": "bXrb3LplwjmMcWT36D48-9",
+			"cellName": "Update Cart State",
+			"cellId": "bXrb3LplwjmMcWT36D48-9",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-10": {
+			"path": "bXrb3LplwjmMcWT36D48-10",
+			"cellName": "Click Add to Cart",
+			"cellId": "bXrb3LplwjmMcWT36D48-10",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-11": {
+			"path": "bXrb3LplwjmMcWT36D48-11",
+			"cellName": "Update UI",
+			"cellId": "bXrb3LplwjmMcWT36D48-11",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-12": {
+			"path": "bXrb3LplwjmMcWT36D48-12",
+			"cellId": "bXrb3LplwjmMcWT36D48-12",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-13": {
+			"path": "bXrb3LplwjmMcWT36D48-13",
+			"cellId": "bXrb3LplwjmMcWT36D48-13",
+			"visible": true,
+			"parentCellId": "bXrb3LplwjmMcWT36D48-12"
+		},
+		"bXrb3LplwjmMcWT36D48-14": {
+			"path": "bXrb3LplwjmMcWT36D48-14",
+			"cellId": "bXrb3LplwjmMcWT36D48-14",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-15": {
+			"path": "bXrb3LplwjmMcWT36D48-15",
+			"cellId": "bXrb3LplwjmMcWT36D48-15",
+			"visible": true,
+			"parentCellId": "bXrb3LplwjmMcWT36D48-14"
+		},
+		"bXrb3LplwjmMcWT36D48-16": {
+			"path": "bXrb3LplwjmMcWT36D48-16",
+			"cellId": "bXrb3LplwjmMcWT36D48-16",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-17": {
+			"path": "bXrb3LplwjmMcWT36D48-17",
+			"cellId": "bXrb3LplwjmMcWT36D48-17",
+			"visible": true,
+			"parentCellId": "bXrb3LplwjmMcWT36D48-16"
+		},
+		"bXrb3LplwjmMcWT36D48-18": {
+			"path": "bXrb3LplwjmMcWT36D48-18",
+			"cellId": "bXrb3LplwjmMcWT36D48-18",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-19": {
+			"path": "bXrb3LplwjmMcWT36D48-19",
+			"cellId": "bXrb3LplwjmMcWT36D48-19",
+			"visible": true,
+			"parentCellId": "bXrb3LplwjmMcWT36D48-18"
+		},
+		"bXrb3LplwjmMcWT36D48-20": {
+			"path": "bXrb3LplwjmMcWT36D48-20",
+			"cellId": "bXrb3LplwjmMcWT36D48-20",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-21": {
+			"path": "bXrb3LplwjmMcWT36D48-21",
+			"cellName": "Click Navigate to Checkout",
+			"cellId": "bXrb3LplwjmMcWT36D48-21",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-22": {
+			"path": "bXrb3LplwjmMcWT36D48-22",
+			"cellId": "bXrb3LplwjmMcWT36D48-22",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-23": {
+			"path": "bXrb3LplwjmMcWT36D48-23",
+			"cellId": "bXrb3LplwjmMcWT36D48-23",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-24": {
+			"path": "bXrb3LplwjmMcWT36D48-24",
+			"cellName": "Redirect to Stripe",
+			"cellId": "bXrb3LplwjmMcWT36D48-24",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-25": {
+			"path": "bXrb3LplwjmMcWT36D48-25",
+			"cellName": "Stripe",
+			"cellId": "bXrb3LplwjmMcWT36D48-25",
+			"visible": true
+		},
+		"bXrb3LplwjmMcWT36D48-26": {
+			"path": "bXrb3LplwjmMcWT36D48-26",
+			"cellId": "bXrb3LplwjmMcWT36D48-26",
 			"visible": true
 		}
 	},
